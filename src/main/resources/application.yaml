@@ -1,0 +1,6 @@
+spring:
+  main:
+    banner_mode: "OFF"
+
+server:
+  port: 8081
